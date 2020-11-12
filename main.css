@@ -1,0 +1,61 @@
+body
+{
+	background-color: #2F4F4F;
+	color:#efefef;
+}
+.pilkarze
+{
+	text-align:center;
+}
+.pilkarze p
+{
+	margin-bottom: 15px;
+	margin-top:15px
+}
+.pilkarze figcaption
+{
+	margin-top:8px
+}
+h3
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #4169E1;
+	margin: 20px;
+}
+.stopka
+{
+	text-align:center;
+	font-size:12px;
+}
+h2
+{
+	font-sized:30px;
+	font-weight: 400;
+	margin: 20px;
+	text-align:center;
+}
+
+.list-group-item-dark
+{
+	background-color: #373a3d;
+	color:white;
+	text-align:center;
+}
+.list-group-item-dark:hover
+{
+	background-color:#4747DA  !important;
+	color:white !important;
+}
+@media( max-width:991px)
+{
+	.wpis
+	{
+		margin	:40px 20px;
+		text-align:center;
+	}
+	.img
+	{
+		text:center;
+	}
+}
